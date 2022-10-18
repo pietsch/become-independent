@@ -1,3 +1,6 @@
+# Community 
+XMPP: [become-independent@muc.tchncs.de](xmpp:become-independent@muc.tchncs.de?join)
+
 # List of all Applications
 
 Application | Informations
