@@ -7,6 +7,7 @@ Matrix: [become-independent:tchncs.de](https://matrix.to/#/#become-independent:t
 
 Application | Informations
 -------- | --------
+AllTube | [Github](https://github.com/Rudloff/alltube)
 Cyptopad | [Github](https://github.com/xwiki-labs/cryptpad), [Website](https://cryptpad.org)
 DNS | -
 Gitea | [Github](https://github.com/go-gitea/gitea), [Website](https://gitea.io/)
@@ -17,6 +18,7 @@ LibreTranslate | [Github](https://github.com/LibreTranslate/LibreTranslate), [We
 Nuudel | Non-Open Source Project
 Mastodon | [Github](https://github.com/mastodon/mastodon)
 Matrix | [Github](https://github.com/matrix-org), [Website](https://matrix.org)
+Misskey | [Github](https://github.com/misskey-dev/misskey), [Website](https://misskey-hub.net)
 Mumble | [Github](https://github.com/mumble-voip/mumble), [Website](https://www.mumble.info)
 PeerTube | [Github](https://github.com/Chocobozzz/PeerTube), [Website](https://joinpeertube.org)
 Piped | [Github](https://github.com/TeamPiped/Piped)
@@ -25,9 +27,6 @@ Plume | [Github](https://github.com/Plume-org/Plume), [Website](https://joinplu.
 Searx | [Github](https://github.com/searx/searx), [Website](https://searx.github.io/searx)
 Vaultwarden | [Github](https://github.com/dani-garcia/vaultwarden)
 XMPP | [Website](https://xmpp.org)
-
-## Not included 
-* Games
 
 # Germany
 ## [Anoxinon](https://anoxinon.de/)
@@ -50,6 +49,12 @@ XMPP | [Website](https://xmpp.org)
 * [PeerTube](https://tube.sp-codes.de/)
 * [Piped](https://piped.sp-codes.de/)
 * [Searx](https://searx.sp-codes.de/)
+
+## [Stux](https://mstdn.social/about)
+* [AllTube](https://ytd.mstdn.social/)
+* [Misskey](https://misskey.ai/)
+* [Pixelfed](https://pixey.org/)
+* [Searx](https://searx.mstdn.social/)
 
 ## [tchncs](https://tchncs.de/)
 * [Cryptopad](https://pad.tchncs.de/)
