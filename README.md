@@ -3,6 +3,14 @@ XMPP: [become-independent@muc.tchncs.de](xmpp:become-independent@muc.tchncs.de?j
 
 Matrix: [become-independent:tchncs.de](https://matrix.to/#/#become-independent:tchncs.de)
 
+# Table of contents
+* [Germany](https://github.com/techducks/become-independent#germany)
+    - [Anoxinon](https://github.com/techducks/become-independent#anoxinon)
+    - [Digitalcourage](https://github.com/techducks/become-independent#digitalcourage)
+    - [sp-codes](https://github.com/techducks/become-independent#sp-codes)
+    - [Stux](https://github.com/techducks/become-independent#stux)
+    - [tchncs](https://github.com/techducks/become-independent#tchncs)
+
 # List of all Applications
 
 Application | Informations
