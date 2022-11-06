@@ -13,17 +13,17 @@ Matrix: [become-independent:tchncs.de](https://matrix.to/#/#become-independent:t
 
 # List of all Applications
 
-Application | Informations
+Application | Information
 -------- | --------
 AllTube | [Github](https://github.com/Rudloff/alltube)
-Cyptopad | [Github](https://github.com/xwiki-labs/cryptpad), [Website](https://cryptpad.org)
+CyptPad | [Github](https://github.com/xwiki-labs/cryptpad), [Website](https://cryptpad.org)
 DNS | -
 Gitea | [Github](https://github.com/go-gitea/gitea), [Website](https://gitea.io/)
-Gitlab | [Gitlab](https://gitlab.com/gitlab-org/gitlab), [Website](https://about.gitlab.com)
+GitLab | [GitLab](https://gitlab.com/gitlab-org/gitlab), [Website](https://about.gitlab.com)
 Hastebin | [Github](https://github.com/toptal/haste-server)
-Jitsi | [Github](https://github.com/jitsi/jitsi-meet), [Website](https://jitsi.org)
+Jitsi Meet | [Github](https://github.com/jitsi/jitsi-meet), [Website](https://jitsi.org)
 LibreTranslate | [Github](https://github.com/LibreTranslate/LibreTranslate), [Website](https://libretranslate.com)
-Nuudel | Non-Open Source Project
+Framadate | [Framagit](https://framagit.org/framasoft/framadate/framadate/wikis/home)
 Mastodon | [Github](https://github.com/mastodon/mastodon)
 Matrix | [Github](https://github.com/matrix-org), [Website](https://matrix.org)
 Misskey | [Github](https://github.com/misskey-dev/misskey), [Website](https://misskey-hub.net)
@@ -32,7 +32,7 @@ PeerTube | [Github](https://github.com/Chocobozzz/PeerTube), [Website](https://j
 Piped | [Github](https://github.com/TeamPiped/Piped)
 Pixelfed | [Github](https://github.com/pixelfed/pixelfed), [Website](https://pixelfed.org)
 Plume | [Github](https://github.com/Plume-org/Plume), [Website](https://joinplu.me)
-Searx | [Github](https://github.com/searx/searx), [Website](https://searx.github.io/searx)
+SearX | [Github](https://github.com/searx/searx), [Website](https://searx.github.io/searx)
 Vaultwarden | [Github](https://github.com/dani-garcia/vaultwarden)
 XMPP | [Website](https://xmpp.org)
 
@@ -43,10 +43,10 @@ XMPP | [Website](https://xmpp.org)
 * [Mumble](https://anoxinon.de/dienste/mumble/)
 
 ## [Digitalcourage](https://digitalcourage.de/)
-* [Cryptopad](https://cryptpad.digitalcourage.de/)
+* [CryptPad](https://cryptpad.digitalcourage.de/)
 * [DNS](https://digitalcourage.de/support/zensurfreier-dns-server/)
 * [Mastodon](https://digitalcourage.social/)
-* [Nuudel](https://nuudel.digitalcourage.de/)
+* [Framadate](https://nuudel.digitalcourage.de/)
 
 ## [sp-codes](https://sp-codes.de/)
 * [Gitea](https://git.sp-codes.de/)
@@ -56,17 +56,17 @@ XMPP | [Website](https://xmpp.org)
 * [Matrix](https://chat.sp-codes.de/)
 * [PeerTube](https://tube.sp-codes.de/)
 * [Piped](https://piped.sp-codes.de/)
-* [Searx](https://searx.sp-codes.de/)
+* [SearX](https://searx.sp-codes.de/)
 
 ## [Stux](https://mstdn.social/about)
 * [AllTube](https://ytd.mstdn.social/)
 * [Misskey](https://misskey.ai/)
 * [Pixelfed](https://pixey.org/)
-* [Searx](https://searx.mstdn.social/)
+* [SearX](https://searx.mstdn.social/)
 
 ## [tchncs](https://tchncs.de/)
-* [Cryptopad](https://pad.tchncs.de/)
-* [Gitlab](https://git.tchncs.de/)
+* [CryptPad](https://pad.tchncs.de/)
+* [GitLab](https://git.tchncs.de/)
 * [Hastebin](https://haste.tchncs.de/)
 * [Mastodon](https://social.tchncs.de/)
 * [Mumble](https://tchncs.de/mumble/)
